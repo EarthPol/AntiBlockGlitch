@@ -1,0 +1,8 @@
+name: AntiBlockGlitch
+version: '${project.version}'
+main: com.earthpol.antiblockglitch.Main
+api-version: 1.18
+depend: [ Towny ]
+authors: [ 0xBit ]
+description: Prevent block glitching in Towny
+website: https://earthpol.com
